@@ -29,6 +29,8 @@ For fluorescence, it tells us:
 FQY = photons absorbed / photons emitted
 ```
 
+- this is important for transforming electrons (electricity) into light (photons)
+
 ### Electron Transport Ability
 
 More of a biological thing.
