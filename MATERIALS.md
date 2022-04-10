@@ -11,6 +11,28 @@ Diodes made from organic molecules like Alq3.
 
 ## Alq3: Chemical Properties
 
+- high thermal stability
+- high quantum yield of fluorescence
+- high electron transport ability
+
+### Thermal Stability
+
+Ability of a polymer to resist heat and maintain its strength, toughness and elasticity.
+
+### Quantum Yield
+
+Number of times a specific event occurs per photon absorbed by Alq3.
+
+For fluorescence, it tells us:
+
+```math
+FQY = photons absorbed / photons emitted
+```
+
+### Electron Transport Ability
+
+More of a biological thing.
+
 ### Denticity
 
 Number of donor groups in a single ligand. A hooker with a single bond to its central atom is a monodentate ligand.
