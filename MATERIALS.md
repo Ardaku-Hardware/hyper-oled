@@ -1,0 +1,28 @@
+## Materials
+
+### Diodes
+
+Diodes made from organic molecules like Alq3.
+
+![](/assets/images/AlumQ3.png)
+
+- organo-metallic chelates are commonly used
+- they have high
+
+## Alq3: Chemical Properties
+
+### Denticity
+
+Number of donor groups in a single ligand. A hooker with a single bond to its central atom is a monodentate ligand.
+
+- Alq3 is bidentate. Just like Oxaliplatin, with two Am bonds to its left ligand and two Oxy bonds to its right ligand.
+- Usually, a metal is the central atom since it has a high valence capacity
+
+## OLED Architecture
+
+We have either BEOLED or TEOLED.
+
+- beoled is bottom emitting. Light has to travel through pixel drive circuits (TFT substrate)
+- teoled is top emitting. The light generated can be extracted efficiently
+
+![](/assets/images/BEOLEDvsTEOLED.png)
