@@ -1,6 +1,6 @@
-## Materials
+# Materials
 
-### Diodes
+## Diodes
 
 Diodes made from organic molecules like Alq3.
 
